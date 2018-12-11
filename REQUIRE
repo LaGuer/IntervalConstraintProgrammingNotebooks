@@ -1,0 +1,8 @@
+PyPlot
+PyCall
+Gadfly
+RDatasets
+Measurements
+Cosmology
+SpecialFunctions
+Unitful
