@@ -3,6 +3,6 @@ PyCall
 Gadfly
 RDatasets
 Measurements
-Cosmology
+IntervalConstraintProgramming
 SpecialFunctions
 Unitful
